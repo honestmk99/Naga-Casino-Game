@@ -1,0 +1,20 @@
+.wel-brand{
+  display: inline-block;
+  background-color: #fed700;
+  box-shadow: 0 8.4px 16px -8.4px rgb(0 0 0 / 8%);
+  border-radius: 20px;
+  padding: 6px 10px;
+  margin-bottom: 20px!important;
+}
+.wel-modal{
+  font-weight: 600!important;
+  font-size: 24px!important;
+  line-height: 110%!important;
+  letter-spacing: .02em!important;
+  text-transform: uppercase!important;
+}
+.wel-form{
+  background-color: #111923;
+  padding: 32px;
+  width: 360px;
+}

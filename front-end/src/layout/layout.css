@@ -1,0 +1,13 @@
+/* banner */
+.img-hero{
+  position: absolute;
+  right:-60px;
+  pointer-events: none;
+  top: 0;
+  bottom: 0;
+  height: 100%;
+}
+
+button{
+  text-transform: lowercase;
+}
